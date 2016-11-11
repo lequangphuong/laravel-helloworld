@@ -9,4 +9,4 @@ I. Install composer
 
 II.	Install Laravel
 	1. composer create-project laravel/laravel <path to distination folder> --prefer-dist
-	2.
+	2. php artisan serve
